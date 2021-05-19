@@ -1,0 +1,61 @@
+Movie ,Genre,Year,IMDB Rating
+Avengers: Endgame ,Action,2019,8.4
+The Dark Knight ,Action,2008,9
+Avengers: Infinity War ,Action,2018,8.4
+The Lord of the Rings: The Fellowship of the Ring ,Action,2001,8.8
+Gladiator,Action,2000,8.5
+Jurassic Park,Action,1993,8.1
+The Dark Knight Rises,Action,2012,8.4
+Batman Begins,Action,2005,8.2
+The Lord of the Rings: The Return of the King ,Action,2003,8.9
+Spider-Man: Into the Spider-Verse ,Action,2018,8.4
+Soul ,Comedy,2020,8.1
+Parasite,Comedy,2019,8.6
+The Grand Budapest Hotel ,Comedy,2014,8.1
+Green Book,Comedy,2018,8.2
+The Truman Show ,Comedy,1998,8.1
+"Three Billboards Outside Ebbing Missouri",Comedy,2017,8.1
+Snatch,Comedy,2000,8.3
+The Intouchables ,Comedy,2011,8.5
+Toy Story,Comedy,1995,8.3
+Inside Out ,Comedy,2015,8.1
+a wrinkle in time,Fantasy,2021,9.6
+Empress of Darkness,Fantasy,2020,9.4
+Orbius,Fantasy,2020,9.3
+Pirates of the Caribbean: The Curse of the Black Pearl,Fantasy,2003,8
+Avatar,Fantasy,2012,7.8
+Life of Pi,Fantasy,2016,7.9
+Mail time,Fantasy,2016,9.1
+Love on a Leash,Fantasy,2011,9.1
+Zack Snyder's Justice League,Fantasy,2021,8.2
+The Shape of Water,Fantasy,2017,7.3
+Get out,Horror,2017,7.7
+Us,Horror,2019,6.8
+The Invisible Man,Horror,2020,7.1
+A Quiet Place,Horror,2018,7.5
+The Conjuring,Horror,2013,7.5
+The Lighthouse,Horror,2019,7.5
+The Platform,Horror,2021,7
+Split,Horror,2016,7.3
+It,Horror,2017,7.3
+Doctor Sleep,Horror,2019,7.3
+Forrest Gump,Romance,1994,8.8
+Life is Beautiful,Romance,1997,8.6
+Your Name.,Romance,2016,8.4
+WALL-E,Romance,2008,8.4
+Eternal Sunshine of the Spotless Mind,Romance,2004,8.3
+Amélie,Romance,2001,8.3
+Good Will Hunting,Romance,1997,8.3
+The Secret in Their Eyes,Romance,2009,8.2
+Before Sunset,Romance,2004,8.1
+In the Mood for Love,Romance,2000,8.1
+Inception,Sci-fi,2010,8.8
+The Matrix,Sci-fi,1999,8.7
+Interstellar,Sci-fi,2014,8.6
+The Prestige,Sci-fi,2006,8.5
+Terminator 2: Judgement Day,Sci-fi,1991,8.5
+Mad Max: Fury Road,Sci-fi,2015,8.1
+The Martian,Sci-fi,2015,8
+Blade Runner 2049,Sci-fi,2017,8
+Ghost In The Shell 2.0,Sci-fi,2008,8
+Edge of Tomorrow,Sci-fi,2014,7.9
